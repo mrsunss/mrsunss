@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/mrsunss)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/mrsunss?tab=repositories)**
 
 - 📫 How to reach me *nitishsunss@gmail.com*
 
