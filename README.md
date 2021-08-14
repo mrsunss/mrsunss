@@ -81,6 +81,6 @@
     <img src="https://komarev.com/ghpvc/?username=mrsunss">
 </a>
 <a href="https://github.com/mrsunss?tab=followers"><img src="https://img.shields.io/github/followers/mrsunss?label=Followers&style=social" alt="GitHub Badge"></a>
-s/mrsunss?label=Followers&style=social" alt="GitHub Badge"></a>
-al" alt="GitHub Badge"></a>
-alt="GitHub Badge"></a>
+cial" alt="GitHub Badge">
+
+
