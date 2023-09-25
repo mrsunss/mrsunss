@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/mrsunss?tab=repositories)**
 
-- 📫 How to reach me *nitishsunss@gmail.com*
+- 📫 How to reach me *immm@gmail.com*
 
 - ⚡ Fun fact *I Play Game and Go to the GYM very often.*
 
